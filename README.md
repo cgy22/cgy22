@@ -9,7 +9,7 @@
 <details>
 <summary><b>English</b></summary>
 
-![English Profile Banner](banner-en.jpg)
+<!--![English Profile Banner](banner-en.jpg)-->
 
 I'm a computer science major and developer. I'm all about bridging the gap between logic and creativity—whether I'm coding or arranging a symphony.
 
@@ -40,7 +40,7 @@ I'm a computer science major and developer. I'm all about bridging the gap betwe
 <details>
 <summary><b>简体中文 (Simplified Chinese)</b></summary>
 
-![Simplified Chinese Profile Banner](banner-zh-cn.jpg)
+<!--![Simplified Chinese Profile Banner](banner-zh-cn.jpg)-->
 
 我是一名计算机科学专业的在校大学生兼开发者。无论是编写代码，还是谱写一首交响乐，我都享受这种将逻辑与创意完美融合的过程。
 
@@ -71,7 +71,7 @@ I'm a computer science major and developer. I'm all about bridging the gap betwe
 <details>
 <summary><b>繁體中文 (Traditional Chinese)</b></summary>
 
-![Traditional Chinese Profile Banner](banner-zh-tw.jpg)
+<!--![Traditional Chinese Profile Banner](banner-zh-tw.jpg)-->
 
 我是一名資訊工程（資工）專業的在校大學生兼軟體開發者。無論是撰寫程式碼，還是譜寫一首交響樂，我都享受這種將邏輯與創意完美融合的過程。
 
