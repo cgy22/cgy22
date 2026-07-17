@@ -28,7 +28,7 @@ I'm a computer science major and developer. I'm all about bridging the gap betwe
 
 #### 🚂 My Tracks & Interests
 
-*   **✈️ Civil Aviation:** I'm a huge aviation geek. I love following flights, airline operations, and global routes.
+*   **✈️ Aviation:** I'm a huge aviation geek. I love following flights, airline operations, and global routes.
 *   **🚄 Transit & Railways:** From heavy rail to subways, light rail, and monorails—if it runs on tracks, I'm probably tracking it.
 *   **🪟 Windows Insider:** A tech enthusiast who loves running bleeding-edge OS builds and testing new features.
 *   **🎼 Symphonic Music:** I play a few different instruments and spend my free time composing and arranging full orchestral scores.
