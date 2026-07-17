@@ -42,7 +42,7 @@ I'm a computer science major and developer. I'm all about bridging the gap betwe
 
 <!--![Simplified Chinese Profile Banner](banner-zh-cn.jpg)-->
 
-我是一名计算机科学专业的在校大学生兼开发者。无论是编写代码，还是谱写一首交响乐，我都享受这种将逻辑与创意完美融合的过程。
+我是一名计算机科学与技术（计科）专业的在校大学生兼开发者。无论是编写代码，还是谱写一首交响乐，我都享受这种将逻辑与创意完美融合的过程。
 
 #### 💻 我的技术栈
 
