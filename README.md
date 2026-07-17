@@ -6,7 +6,7 @@
 
 ---
 
-<details>
+<details open>
 <summary><b>English</b></summary>
 
 <!--![English Profile Banner](banner-en.jpg)-->
