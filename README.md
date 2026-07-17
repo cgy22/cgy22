@@ -1,4 +1,4 @@
-![Main Profile Banner](banner-main.jpg)
+![Main Profile Banner](https://dornhub.eu.org/.private/banner-main.jpg)
 
 # Hi there, I'm cgy22! 👋
 
